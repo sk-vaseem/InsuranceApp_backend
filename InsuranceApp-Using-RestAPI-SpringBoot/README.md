@@ -21,9 +21,3 @@ This project is a RESTful API for managing employee insurance information. It pr
 - `POST /employees/create` - Add a new employee
 - `DELETE /employees/delete/{id}` - Delete an employee by ID
 - `PUT /employees/update` - Update an employee's information
-
-## Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/jmlakshmisagar/InsuranceApp-Using-RestAPI-SpringBoot.git
